@@ -1,1 +1,0 @@
-rm -rf `ls |grep -v ".sh"`
